@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://www.iss.nus.edu.sg/images/default-source/default-album/software-dev3199cfde42136fdb9c52ff000079db5a.jpg?sfvrsn=978aa05f_0"/>
+  <img src="https://www.iss.nus.edu.sg/images/default-source/default-album/software-dev3199cfde42136fdb9c52ff000079db5a.jpg?sfvrsn=978aa05f_0"width="500px" alt="Coding GIF"/>
 </p>
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Aman Singh</h1>
+<h1 align="center">Hi,I'm Aman Singh</h1>
 <h3 align="center">🚀 Data Science Engineer | 💡 Tech Explorer </h3>
 ---
 
@@ -76,5 +76,6 @@
 </p>
 
 ---
+
 
 > 🧠 *“Turning curiosity into code, one project at a time.”*

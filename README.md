@@ -1,81 +1,115 @@
-<p align="center">
-  <img src="https://www.iss.nus.edu.sg/images/default-source/default-album/software-dev3199cfde42136fdb9c52ff000079db5a.jpg?sfvrsn=978aa05f_0"width="500px" alt="Coding GIF"/>
-</p>
-<!-- Profile Header -->
-<h1 align="center">Hi,I'm Aman Singh</h1>
-<h3 align="center">🚀 Data Science Engineer | 💡 Tech Explorer </h3>
----
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm Aman Singh
 
-## 🏆 Badges Unlocked
+[![GitHub Badge](https://img.shields.io/badge/-jedislayer009-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/jedislayer009)](https://github.com/jedislayer009)
+[![LinkedIn Badge](https://img.shields.io/badge/-Aman_Singh-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-singh-453b9a22a/)](https://www.linkedin.com/in/aman-singh-453b9a22a/)
+[![Gmail Badge](https://img.shields.io/badge/-asingh432086@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:asingh432086@gmail.com)](mailto:asingh432086@gmail.com)
+[![Location Badge](https://img.shields.io/badge/-Bengaluru,_India-4A154B?style=flat-square&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Bengaluru)
 
-![Profile Views](https://komarev.com/ghpvc/?username=jedislayer009&style=flat-square&color=blue)
-![Followers](https://img.shields.io/github/followers/jedislayer009?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/jedislayer009?style=social)
+## 💫 About Me
 
----
+Enthusiastic and quick-learning engineering graduate with a solid foundation in programming, data visualization, and software development. Passionate about emerging technologies, especially in data analytics, health tech, and cybersecurity. Seeking opportunities to apply my technical knowledge and creativity to real-world problems.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200px" alt="Coding GIF"/>
-</p>
+<details>
+<summary>🎓 Education</summary>
+<br>
 
----
+- **Bachelor of Engineering in Data Science**  
+  *AMC Engineering College, Bengaluru*  
+  *Dec 2022 - Present*
+</details>
 
-## 🌟 About Me
+## 🚀 Skills
 
-- 🎓 Pursuing **B.E. in Data Science** at AMC Engineering College, Bengaluru  
-- 💻 Exploring the intersection of **healthcare and technology**
-- 🔬 Currently building a **Remote Patient Monitoring System** using IoT
-- ✨ Love working on **data analytics**, **cybersecurity**, and **front-end development**
-- 🌱 Lifelong learner and open-source contributor
+<div align="center">
 
----
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-## 🔧 Technologies & Tools
+### Frameworks & Libraries
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,html,css,github,c,mongodb,r,tableau,powerbi,excel" alt="Tech Stack Icons" />
-</p>
+### Tools & Platforms
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
----
+### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DBMS](https://img.shields.io/badge/-DBMS-4479A1?style=for-the-badge&logo=database&logoColor=white)
+
+### Other Skills
+![Agile](https://img.shields.io/badge/-Agile-6DB33F?style=for-the-badge&logo=agile&logoColor=white)
+![SDLC](https://img.shields.io/badge/-SDLC-FF6C37?style=for-the-badge&logo=sdlc&logoColor=white)
+
+</div>
+
+## 🛠️ Projects
+
+<details open>
+<summary><strong>Remote Patient Monitoring System</strong></summary>
+<br>
+
+### Features
+- Real-time health monitoring of vital signs (ECG, temperature, limb movements)
+- Remote access and telemedicine capabilities for healthcare professionals
+- User-friendly interface designed for healthcare applications
+
+### Technologies
+- IoT sensors integration
+- Real-time data processing
+- Telemedicine interface
+- Healthcare analytics
+
+### Achievements
+- Developed a complete monitoring solution focusing on accuracy and reliability
+- Implemented secure remote access protocols for medical professionals
+- Created a scalable architecture for future enhancements
+
+</details>
+
+## 🌱 I'm currently exploring
+
+- Data visualization techniques with Power BI and Tableau
+- Software development best practices
+- Open-source contributions
+- Analytics and security domains
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jedislayer009&show_icons=true&theme=radical" alt="Aman's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jedislayer009&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedislayer009&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jedislayer009&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedislayer009&layout=compact&langs_count=8&theme=react"/>
+</div>
+
+## 👥 Leadership & Team Experience
+
+- **AMC Engineering College Math Club**
+  - Led content creation and digital outreach strategies
+  - Coordinated academic initiatives and competitions
+  - Developed strong collaboration and communication skills
+
+## 💼 Experience & Interests
+
+- Completed hands-on coursework in data visualization using Power BI and Tableau
+- Exploring opportunities in software development, analytics, and security domains
+- Interested in healthcare technology and data-driven solutions
+
+## 📬 Contact Me
+
+Feel free to reach out if you'd like to collaborate on projects or just want to connect!
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asingh432086@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-singh-453b9a22a/)
 
 ---
 
-## 🩺 Featured Project – Remote Patient Monitoring System
-
-<img src="https://techvify.com/wp-content/uploads/2023/07/iot-in-healthcare-1.jpg"/>
-
-- Real-time tracking of ECG, temperature, and limb movements  
-- Integrated remote access and telemedicine capabilities  
-- Focused on **usability**, **scalability**, and **accurate diagnostics**
-
----
-
-## 📊 Recent Highlights
-
-- 🔍 Built interactive dashboards using **Power BI** & **Tableau**
-- 💬 Led **Math Club** content strategy & event coordination
-- 🔐 Learning more about **ethical hacking** & **secure software systems**
-
----
-
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/jedislayer009"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/aman-singh-453b9a22a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:asingh432086@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-
-> 🧠 *“Turning curiosity into code, one project at a time.”*
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jedislayer009&color=blueviolet&style=flat-square&label=Profile+Views">
+  <br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A54F7&center=true&vCenter=true&width=435&lines=Always+learning%2C+always+growing...;Open+to+new+opportunities;Data+Science+%7C+Analytics+%7C+Development" alt="Typing SVG" />
+</div>
